@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thekojopatrick
-- 👀 I’m interested in Product Design
-- 🌱 I’m currently learning & building Reactjs, Nextjs, Prisma and Supabase
-- 💞️ I’m looking to collaborate on UI/UX design & Frontend Development
+- 👀 I’m interested in Product Design and Mobile Development
+- 🌱 I’m currently learning & building with React,React native,Expo, Nextjs,Postgresql, Prisma and Supabase
+- 💞️ I’m looking to collaborate on UI/UX design & Frontend Development Projects
 - 📫 How to reach me on Twitter
 
 <!---
